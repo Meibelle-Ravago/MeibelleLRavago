@@ -24,5 +24,5 @@ I am **Meibelle Ravago**, a developer and database engineer with a flair for cod
 *   **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/your-profile-handle)
 *   **Email:** [meibelleravago59@gmail.com](mailto:meibelleravago59@gmail.com)
 
----
-*“Crafting code and characters, one line and one stroke at a time.”*
+
+
