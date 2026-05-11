@@ -13,7 +13,7 @@ I am **Meibelle Ravago**, a developer and database engineer with a flair for cod
 *   *2021 - Present*
 
 ### Certification
-*   [NoSQL and DBaaS 101]([https://your-certification-link-here.com](https://courses.cognitiveclass.ai/certificates/bb8f5ecd6f514a838c272b2e74a360a7 ))
+*   [NoSQL and DBaaS 101]([https://your-certification-link-here.com](https://courses.cognitiveclass.ai/certificates/bb8f5ecd6f514a838c272b2e74a360a])
 
 ### Skill Sets
 *   **Programming:** Java, JavaScript, SQL, React Native
