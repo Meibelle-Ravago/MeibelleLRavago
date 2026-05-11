@@ -13,9 +13,7 @@ I am **Meibelle Ravago**, a developer and database engineer with a flair for cod
 *   *2021 - Present*
 
 ### Certification
-*   [NoSQL and DBaaS 101](https://your-certification-link-here.com)
-*   [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://your-certification-link-here.com)
-*   [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://your-certification-link-here.com)
+*   [NoSQL and DBaaS 101]([https://your-certification-link-here.com](https://courses.cognitiveclass.ai/certificates/bb8f5ecd6f514a838c272b2e74a360a7 ))
 
 ### Skill Sets
 *   **Programming:** Java, JavaScript, SQL, React Native
@@ -24,7 +22,7 @@ I am **Meibelle Ravago**, a developer and database engineer with a flair for cod
 
 ### Connect with Me
 *   **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/your-profile-handle)
-*   **Email:** [meibelleravago@gmail.com](mailto:meibelleravago@gmail.com)
+*   **Email:** [meibelleravago59@gmail.com](mailto:meibelleravago59@gmail.com)
 
 ---
 *“Crafting code and characters, one line and one stroke at a time.”*
