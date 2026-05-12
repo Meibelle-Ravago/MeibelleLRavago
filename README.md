@@ -22,7 +22,7 @@ I am **Meibelle Ravago**, a developer and database engineer with a flair for cod
 *   **Tools:** VS Code, Lucidchart, Jaspersoft Studio, Eclipse, GitHub, Expo
 
 ### Connect with Me
-*   **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/your-profile-handle)
+*   **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/meibelle-l-ravago-36790640a)
 *   **Email:** [meibelleravago59@gmail.com](mailto:meibelleravago59@gmail.com)
 
 
