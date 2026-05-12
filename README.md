@@ -14,6 +14,7 @@ I am **Meibelle Ravago**, a developer and database engineer with a flair for cod
 
 ### Certification
 *   [NoSQL and DBaaS 101] https://courses.cognitiveclass.ai/certificates/bb8f5ecd6f514a838c272b2e74a360a7
+*   [Data Analytics] https://www.sololearn.com/certificates/CC-DL4SXJ6G 
   
 ### Skill Sets
 *   **Programming:** Java, JavaScript, SQL, React Native
