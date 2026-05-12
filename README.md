@@ -1,7 +1,7 @@
-# Hi there, I'm MeibelleLRavago! 👋
+# Hi there, I'm MeibelleLRavago! 
 
 ### About Me
-I am **Meibelle Ravago**, a developer and database engineer with a flair for coding and database management. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech accelerated when I began my studies in Information Technology, where I developed a passion for building functional and efficient applications.
+I am **Meibelle Ravago**, a developer and database engineer with a flair for coding and database management. I thrive on tackling complex problems and crafting solutions. My journey in tech accelerated when I began my studies in Information Technology, where I developed my passion for building functional and efficient applications.
 
 - 🔭 I’m currently working on Java and React Native projects.
 - 🌱 I’m currently refining my skills in SQL and Database Engineering.
@@ -10,11 +10,11 @@ I am **Meibelle Ravago**, a developer and database engineer with a flair for cod
 ### Education
 *   **BS Information Technology**
 *   **New Era University**
-*   *2021 - Present*
+*   *2024 - Present*
 
 ### Certification
-*   [NoSQL and DBaaS 101] https://courses.cognitiveclass.ai/certificates/bb8f5ecd6f514a838c272b2e74a360a7
-*   [Data Analytics] https://www.sololearn.com/certificates/CC-DL4SXJ6G 
+*   [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/bb8f5ecd6f514a838c272b2e74a360a7)
+*   [Data Analytics](https://www.sololearn.com/certificates/CC-DL4SXJ6G)
   
 ### Skill Sets
 *   **Programming:** Java, JavaScript, SQL, React Native
@@ -22,8 +22,5 @@ I am **Meibelle Ravago**, a developer and database engineer with a flair for cod
 *   **Tools:** VS Code, Lucidchart, Jaspersoft Studio, Eclipse, GitHub, Expo
 
 ### Connect with Me
-*   **LinkedIn:** [My LinkedIn Profile](www.linkedin.com/in/meibelle-l-ravago-36790640a)
+*   **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/meibelle-l-ravago-36790640a)
 *   **Email:** [meibelleravago59@gmail.com](mailto:meibelleravago59@gmail.com)
-
-
-
